@@ -1,0 +1,2864 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Great Are You Lord - Recording_data" version="1.3.0" audacityversion="2.3.0" sel0="11.6996047431" sel1="11.6996047431" vpos="3008" h="0.0000000000" zoom="3.1625000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="Liliana Vocals"/>
+	</tags>
+	<wavetrack name="Bass" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.446684" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e08080ac.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="0" aliaslen="262144" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0808cff.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.779968" max="0.690247" rms="0.060762"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e08081ad.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.824585" max="0.654785" rms="0.117642"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808ba8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.532013" max="0.610535" rms="0.129116"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808103.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.640564" max="0.659424" rms="0.131099"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e08089f2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.957977" max="0.743042" rms="0.125245"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e08082a0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.805817" max="0.668976" rms="0.121972"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e080811d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.681854" max="0.702728" rms="0.1117"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0808d9f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.538361" max="0.68811" rms="0.106144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0808424.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.624634" max="0.673096" rms="0.120543"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e08087fd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.741272" max="0.742889" rms="0.146489"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0808d2a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.943604" max="0.981506" rms="0.182756"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0808355.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.809174" max="0.904205" rms="0.156841"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e080842a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.572968" max="0.69989" rms="0.119838"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0808d28.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.536163" max="0.771393" rms="0.099529"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0808576.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.561035" max="0.674133" rms="0.109252"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0808d2d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.511841" max="0.610565" rms="0.120866"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e0808674.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.5354" max="0.60434" rms="0.121537"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0808423.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.584473" max="0.755981" rms="0.127195"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808f2b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.708923" max="0.821686" rms="0.124272"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e08085b5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.889587" max="0.694244" rms="0.116524"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0808717.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.553741" max="0.612488" rms="0.105753"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0808fdb.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.652252" max="0.675781" rms="0.104447"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0808bc1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.519958" max="0.564178" rms="0.134515"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0808a4e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.545105" max="0.610962" rms="0.128097"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e0808fa3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.61322" max="0.596008" rms="0.125082"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e080807a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.523621" max="0.539185" rms="0.12009"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e08087d2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.576111" max="0.62088" rms="0.111321"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e080807f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.49057" max="0.505951" rms="0.12051"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e08086f0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.533844" max="0.539581" rms="0.131509"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e08081b6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.523315" max="0.512634" rms="0.122922"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0808be8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.565399" max="0.678741" rms="0.12977"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0808d42.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.665588" max="0.640686" rms="0.12726"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e08082ee.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.610229" max="0.634857" rms="0.128637"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0808b22.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.828705" max="0.754242" rms="0.138668"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0808f4d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.70575" max="0.740601" rms="0.128466"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0808e56.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.640564" max="0.603516" rms="0.125004"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0808c77.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.601135" max="0.605408" rms="0.097894"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e080827f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.000427" max="0.000275" rms="0.000045"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0808cde.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-0.000031" max="0.0" rms="0.000003"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0808590.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="240.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="572187">
+				<waveblock start="0">
+					<simpleblockfile filename="e080105d.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0801237.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0801b8f.au" len="47899" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="252.97476190" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="163867">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801ead.au" len="163867" min="-0.008301" max="0.00473" rms="0.000492"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bass" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.446684" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0808dc5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="0" aliaslen="262144" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e08089d1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.526001" max="0.552826" rms="0.058223"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0808da4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.829468" max="0.805511" rms="0.113002"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808e4c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.563873" max="0.57666" rms="0.123892"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808ed2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.561035" max="0.82605" rms="0.121236"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0808fb4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.741302" max="0.722076" rms="0.117456"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e0808887.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.666779" max="0.764374" rms="0.113361"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0808da6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.692627" max="0.641541" rms="0.112626"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0808b98.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.620178" max="0.732452" rms="0.106568"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e08086a7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.660553" max="0.525787" rms="0.1156"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e080895c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.756226" max="0.792206" rms="0.149848"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e08089ec.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.988525" max="0.916718" rms="0.186318"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0808769.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.776581" max="0.988007" rms="0.158316"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0808d39.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.670135" max="0.762939" rms="0.127245"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e08088c6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.703796" max="0.790588" rms="0.107737"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0808378.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.529144" max="0.6698" rms="0.115017"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0808cfb.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.492371" max="0.602783" rms="0.120321"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e080886f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.731659" max="0.74231" rms="0.112431"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0808d92.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.777832" max="0.719788" rms="0.122275"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808e20.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.680115" max="0.639801" rms="0.109606"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0808a77.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.628571" max="0.76062" rms="0.107243"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0808054.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.606262" max="0.5336" rms="0.101478"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0808dc7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.684387" max="0.799194" rms="0.098742"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0808ac8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.517151" max="0.547791" rms="0.126984"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0808787.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.550629" max="0.547089" rms="0.12585"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e080868a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.593964" max="0.650513" rms="0.129848"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e08089b9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.566162" max="0.62262" rms="0.116057"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0808af4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.799835" max="0.747345" rms="0.118125"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0808569.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.638977" max="0.654327" rms="0.115397"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e08086d9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.564301" max="0.722443" rms="0.136026"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0808113.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.577667" max="0.606934" rms="0.120288"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0808e55.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.621979" max="0.635895" rms="0.122114"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e08088fc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.576477" max="0.526611" rms="0.124032"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e08081c2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.57785" max="0.734344" rms="0.131102"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e08081ed.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.720276" max="0.663696" rms="0.140921"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0808a5c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.591675" max="0.561829" rms="0.12444"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0808ed4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.508698" max="0.636078" rms="0.128142"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0808108.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.537415" max="0.576447" rms="0.096589"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e08081d8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.000336" max="0.000336" rms="0.000049"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0808bc7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.000031" max="0.0" rms="0.000004"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0808945.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Bass.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="240.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="572187">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801d37.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0801a25.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08016e2.au" len="47899" min="-0.000336" max="0.000366" rms="0.000185"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="252.97476190" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="163867">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801c12.au" len="163867" min="-0.000061" max="0.000061" rms="0.000017"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Pads" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e080841f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="0" aliaslen="262144" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e08081a9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.293976" max="0.224213" rms="0.028085"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0808e44.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.616028" max="0.512512" rms="0.137169"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808a80.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.597229" max="0.566956" rms="0.145974"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808585.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.581085" max="0.541687" rms="0.151785"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0800735.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.540192" max="0.711945" rms="0.159454"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e08005bb.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.647278" max="0.654205" rms="0.141478"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e08005b9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.600006" max="0.562714" rms="0.153943"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0800b0d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.506378" max="0.603394" rms="0.14021"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e08007be.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.616455" max="0.713715" rms="0.153515"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0800bab.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.642181" max="0.654602" rms="0.16728"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0800392.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.565765" max="0.600952" rms="0.155544"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0800393.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.587311" max="0.582336" rms="0.151771"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e08001e7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.624298" max="0.620697" rms="0.167139"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0800472.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.560822" max="0.586243" rms="0.163002"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e08000fc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.616608" max="0.67627" rms="0.142464"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e080063e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.6409" max="0.588837" rms="0.165905"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e0800db5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.606476" max="0.640015" rms="0.148557"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0800ce6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.584045" max="0.56839" rms="0.153161"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0800b14.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.579926" max="0.617004" rms="0.162747"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0800fb6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.604523" max="0.559021" rms="0.147163"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e08008a1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.532104" max="0.594452" rms="0.147641"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e08006e1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.709167" max="0.670807" rms="0.162935"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0800033.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.567291" max="0.59024" rms="0.170934"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0800baf.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.596588" rms="0.192225"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e0800ba7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.578308" max="0.619904" rms="0.155652"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0800fd6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.527893" max="0.542664" rms="0.150377"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0800afa.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.743347" max="0.70929" rms="0.196197"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e080087b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.572998" max="0.585358" rms="0.149006"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0800b52.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.608063" max="0.55899" rms="0.156033"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e080015d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.789886" max="0.958557" rms="0.197261"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0800766.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.605957" max="0.640472" rms="0.163946"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e080049e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.569122" max="0.575012" rms="0.144555"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e08001d4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.609833" max="0.594727" rms="0.153012"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0800bc5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.573364" max="0.606781" rms="0.152522"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e08001de.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.516418" max="0.559967" rms="0.143114"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0800657.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.498413" max="0.502686" rms="0.141873"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e080030f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.617706" max="0.628204" rms="0.165812"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0800aa4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.560913" max="0.492493" rms="0.134422"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0800044.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-0.302704" max="0.298004" rms="0.065747"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0800d35.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="0" min="-0.017487" max="0.018951" rms="0.003779"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Pads" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0808241.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="0" aliaslen="262144" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e080816b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.277771" max="0.30365" rms="0.033032"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0808931.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.61441" max="0.54007" rms="0.136675"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e08084d4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.604004" max="0.578339" rms="0.146165"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808d1d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.61557" max="0.669617" rms="0.147732"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e08004b2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.64032" max="0.623291" rms="0.148328"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e08007b7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.579315" max="0.562622" rms="0.140179"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0800e15.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.577942" max="0.566254" rms="0.140598"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e080027e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.583099" max="0.546967" rms="0.153316"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e080096a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.630463" max="0.550659" rms="0.139661"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e080046e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.705688" max="0.618439" rms="0.159111"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e08009e7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.611572" max="0.609985" rms="0.146195"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e08000c6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.539795" max="0.533661" rms="0.141857"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0800639.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.623016" max="0.777985" rms="0.154958"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0800949.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.527161" max="0.52478" rms="0.15157"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0800103.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.572968" max="0.553192" rms="0.142783"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0800e90.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.617493" max="0.632599" rms="0.159348"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e0800f9e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.594025" max="0.587616" rms="0.150191"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e08000db.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.569" max="0.585663" rms="0.139553"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e08005a3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.672089" max="0.639038" rms="0.158863"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0800bf7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.59491" max="0.598724" rms="0.150918"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e08003bf.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.6362" max="0.491364" rms="0.140503"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e08000a0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.603058" max="0.595337" rms="0.153686"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e080004e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.614105" max="0.58905" rms="0.1467"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e08005ef.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.763885" max="0.988495" rms="0.193824"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e080083c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.559357" max="0.587738" rms="0.155976"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0800552.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.634674" max="0.654785" rms="0.150124"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0800eaf.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.781555" max="0.762512" rms="0.202739"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0800b8c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.564819" max="0.681396" rms="0.147683"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e08009fc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.544098" max="0.532227" rms="0.1531"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0800138.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.776154" max="0.81897" rms="0.187115"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e080045f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.579895" max="0.649139" rms="0.151242"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e080055b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.618469" max="0.599213" rms="0.159689"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e0800eff.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.644135" max="0.766174" rms="0.174312"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0800c75.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.589813" max="0.570587" rms="0.161959"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0800db9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.654419" max="0.651123" rms="0.156902"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0800ea9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.532776" max="0.533539" rms="0.147757"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0800a30.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.576813" max="0.570831" rms="0.145193"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0800759.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.552094" max="0.492432" rms="0.137165"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e08004a9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.346741" max="0.320129" rms="0.077093"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0800aa7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Pads.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="1" min="-0.026489" max="0.021606" rms="0.006025"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Click" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.562341" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e080851a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="0" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050851"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0808007.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050387"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e08089d4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049928"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808627.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049007"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808ef4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e08084c3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049969"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e0808e9d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.048945"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0808408.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0808dba.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049977"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0808a2e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.048936"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0808640.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0808134.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049977"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0808963.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.048936"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e08080d1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0808583.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049977"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e08084bc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.048936"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0808117.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e0808bba.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049977"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e08088ca.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.048936"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808c9a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050364"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e08081db.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.051014"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0808d8b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049633"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0808485.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049431"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e08083f0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050273"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0808c47.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e08088dc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049424"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e08088fd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050262"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e08089b2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e08081d7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049423"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e08081c0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050262"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0808788.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0808a82.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049423"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0808bbd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050262"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e0808165.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e08088c9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049423"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e080810c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050262"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0808927.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e08080de.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049423"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0808de2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.050262"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e08088c8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.049599"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e080828a.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="0" min="-0.775055" max="0.888153" rms="0.05031"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Click" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.562341" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0808649.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="0" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.057052"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e08080f0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055938"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0808234.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056094"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808876.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053386"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808387.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055928"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e08086ed.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056148"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e08085ae.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.05332"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0808c72.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055928"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e08082d8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056156"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e08081a5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.05331"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0808524.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055927"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0808e37.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056156"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e08087d7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.05331"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0808429.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055927"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e08084c2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056156"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0808cd0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.05331"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0808910.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055927"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e0808106.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056156"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e080871b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.05331"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808613.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055927"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0808bab.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.057107"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e080891c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053944"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0808aca.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055165"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e080804f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056334"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e080838f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e0808960.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055158"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0808775.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056332"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e080814b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0808b5e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055157"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0808055.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056332"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e08088a5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0808150.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055157"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0808be2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056332"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e0808a60.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e08087d0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055157"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0808b28.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056332"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e080889c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0808d36.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.055157"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0808398.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.056332"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e08085c7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.053924"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0808cba.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Click.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="1" min="-0.865692" max="0.988495" rms="0.054847"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.501187" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3141147">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801bb0.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0801a00.au" len="262144" min="-0.255035" max="0.23175" rms="0.012072"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0801a42.au" len="262144" min="-0.472687" max="0.470886" rms="0.044813"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08018e6.au" len="262144" min="-0.462402" max="0.461548" rms="0.054085"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0801724.au" len="262144" min="-0.479584" max="0.510498" rms="0.046319"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0801fef.au" len="262144" min="-0.473816" max="0.502197" rms="0.04922"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e080199d.au" len="262144" min="-0.480164" max="0.506409" rms="0.043363"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e08012c3.au" len="262144" min="-0.551208" max="0.507324" rms="0.053789"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0801551.au" len="262144" min="-0.468842" max="0.503815" rms="0.053735"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0801a75.au" len="262144" min="-0.537109" max="0.499664" rms="0.057755"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e08016d7.au" len="262144" min="-0.566223" max="0.58136" rms="0.059639"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0801521.au" len="257563" min="-0.033386" max="0.031586" rms="0.002583"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.501187" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3141147">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801f0e.au" len="262144" min="-0.000366" max="0.000366" rms="0.000185"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08010a9.au" len="262144" min="-0.262268" max="0.221588" rms="0.012626"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080108d.au" len="262144" min="-0.494659" max="0.502319" rms="0.046545"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08018b6.au" len="262144" min="-0.490845" max="0.477783" rms="0.056309"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08010fb.au" len="262144" min="-0.495453" max="0.514252" rms="0.048373"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080120b.au" len="262144" min="-0.499664" max="0.508057" rms="0.050858"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e08010ce.au" len="262144" min="-0.496216" max="0.516998" rms="0.044697"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0801a90.au" len="262144" min="-0.533813" max="0.498749" rms="0.055467"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e080150e.au" len="262144" min="-0.501495" max="0.508423" rms="0.055952"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0801691.au" len="262144" min="-0.522034" max="0.509766" rms="0.059213"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e080138b.au" len="262144" min="-0.603058" max="0.5065" rms="0.061158"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e080187c.au" len="257563" min="-0.029388" max="0.030029" rms="0.001904"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4551224">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0801e5d.au" len="262144" min="-0.43457" max="0.366913" rms="0.022335"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e080144f.au" len="262144" min="-0.464355" max="0.406342" rms="0.047351"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e08013ab.au" len="262144" min="-0.42334" max="0.391846" rms="0.047271"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0801dff.au" len="262144" min="-0.365326" max="0.346893" rms="0.044877"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0801d84.au" len="262144" min="-0.358429" max="0.356934" rms="0.043707"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e08010a7.au" len="262144" min="-0.507721" max="0.466858" rms="0.050932"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e08012f0.au" len="262144" min="-0.514374" max="0.559021" rms="0.049889"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0801cc1.au" len="94776" min="-0.014954" max="0.015656" rms="0.001968"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4551224">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e080141a.au" len="262144" min="-0.475433" max="0.391479" rms="0.023696"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0801354.au" len="262144" min="-0.495667" max="0.427032" rms="0.049883"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0801d89.au" len="262144" min="-0.44812" max="0.383179" rms="0.049221"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0801e33.au" len="262144" min="-0.412384" max="0.353912" rms="0.04695"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e08019bf.au" len="262144" min="-0.364807" max="0.343689" rms="0.045851"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e08012c6.au" len="262144" min="-0.48291" max="0.467621" rms="0.052947"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e08015b1.au" len="262144" min="-0.497925" max="0.561005" rms="0.051461"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e08015ae.au" len="94776" min="-0.011322" max="0.01297" rms="0.001531"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6129900">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e0801339.au" len="262144" min="-0.639679" max="0.583099" rms="0.034069"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0801200.au" len="262144" min="-0.498352" max="0.466705" rms="0.059648"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0801e4d.au" len="262144" min="-0.639709" max="0.639679" rms="0.072802"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e080138d.au" len="262144" min="-0.554535" max="0.469086" rms="0.069661"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e08018f6.au" len="262144" min="-0.515167" max="0.479828" rms="0.0553"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e08016c7.au" len="262144" min="-0.571442" max="0.514496" rms="0.066509"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e0801dd3.au" len="262144" min="-0.555023" max="0.629425" rms="0.064258"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0801505.au" len="100588" min="-0.018829" max="0.022949" rms="0.002628"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="95.810272108844" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6129900">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e0801f0a.au" len="262144" min="-0.639709" max="0.63028" rms="0.036086"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0801d96.au" len="262144" min="-0.53891" max="0.471313" rms="0.062668"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0801721.au" len="262144" min="-0.639709" max="0.639679" rms="0.078297"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e0801a27.au" len="262144" min="-0.583679" max="0.562744" rms="0.075106"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e08019fc.au" len="262144" min="-0.533783" max="0.489777" rms="0.057619"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e0801043.au" len="262144" min="-0.563934" max="0.603668" rms="0.071734"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e080123b.au" len="262144" min="-0.565369" max="0.617798" rms="0.06875"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0801dfa.au" len="100588" min="-0.021515" max="0.019348" rms="0.003481"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="95.810272108844" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8512047">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e080121c.au" len="262144" min="-0.510712" max="0.401154" rms="0.029762"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e080199b.au" len="262144" min="-0.50351" max="0.409851" rms="0.06284"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e08015af.au" len="262144" min="-0.476563" max="0.529694" rms="0.062243"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e08017a7.au" len="262144" min="-0.591827" max="0.639679" rms="0.066241"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0801f2b.au" len="262144" min="-0.475403" max="0.484009" rms="0.060004"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0801fb8.au" len="262144" min="-0.539978" max="0.543884" rms="0.067061"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0801837.au" len="262144" min="-0.511017" max="0.569" rms="0.061927"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e0801e5e.au" len="262144" min="-0.419525" max="0.401215" rms="0.054972"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e0801539.au" len="262144" min="-0.547943" max="0.5495" rms="0.061396"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0801921.au" len="262144" min="-0.576813" max="0.639679" rms="0.071137"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e0801989.au" len="123439" min="-0.015869" max="0.016632" rms="0.001893"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="131.541496598639" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8512047">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e080132a.au" len="262144" min="-0.586578" max="0.41803" rms="0.031367"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e08017cc.au" len="262144" min="-0.508881" max="0.444916" rms="0.067651"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e08013ad.au" len="262144" min="-0.512207" max="0.593689" rms="0.067297"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e0801b11.au" len="262144" min="-0.581635" max="0.639679" rms="0.068953"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0801abc.au" len="262144" min="-0.523376" max="0.505035" rms="0.063218"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e08013cc.au" len="262144" min="-0.565186" max="0.539429" rms="0.069688"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e08013c5.au" len="262144" min="-0.506775" max="0.59671" rms="0.064114"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e08017bf.au" len="262144" min="-0.452301" max="0.412384" rms="0.057415"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e0801899.au" len="262144" min="-0.587219" max="0.562469" rms="0.062955"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0801562.au" len="262144" min="-0.639679" max="0.63089" rms="0.075652"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e08017da.au" len="123439" min="-0.015564" max="0.015015" rms="0.001927"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="131.541496598639" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10118615">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0801cf2.au" len="262144" min="-0.639679" max="0.608795" rms="0.044788"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e08012de.au" len="262144" min="-0.602173" max="0.604523" rms="0.081314"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e080178d.au" len="262144" min="-0.602234" max="0.515381" rms="0.078799"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e08013fa.au" len="262144" min="-0.639709" max="0.639679" rms="0.090402"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e0801470.au" len="262144" min="-0.593323" max="0.630707" rms="0.069723"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<simpleblockfile filename="e0801d28.au" len="262144" min="-0.517303" max="0.549469" rms="0.071504"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0801a14.au" len="262144" min="-0.541992" max="0.57254" rms="0.076532"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e080166f.au" len="157143" min="-0.015991" max="0.014069" rms="0.00152"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="184.980226757370" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10118615">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0801e9b.au" len="262144" min="-0.639679" max="0.639679" rms="0.046917"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e08017b5.au" len="262144" min="-0.639679" max="0.639679" rms="0.086568"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e0801b30.au" len="262144" min="-0.595459" max="0.564117" rms="0.082661"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e0801efc.au" len="262144" min="-0.639709" max="0.639679" rms="0.094715"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e08014ca.au" len="262144" min="-0.612244" max="0.639679" rms="0.072337"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<simpleblockfile filename="e0801d1d.au" len="262144" min="-0.548584" max="0.527222" rms="0.076695"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0801cb8.au" len="262144" min="-0.538086" max="0.526276" rms="0.080355"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e0801c7b.au" len="157143" min="-0.017303" max="0.014923" rms="0.001572"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="184.980226757370" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10587802">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0801dc0.au" len="262144" min="-0.513763" max="0.457336" rms="0.028769"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e0801b51.au" len="262144" min="-0.482422" max="0.404388" rms="0.049546"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<simpleblockfile filename="e0801ebc.au" len="262144" min="-0.355316" max="0.362061" rms="0.019155"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<simpleblockfile filename="e08017a5.au" len="102042" min="-0.00061" max="0.000671" rms="0.0002"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="220.711451247166" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10587802">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0801847.au" len="262144" min="-0.523468" max="0.478088" rms="0.029518"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e0801419.au" len="262144" min="-0.496796" max="0.423065" rms="0.052437"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<simpleblockfile filename="e08017dc.au" len="262144" min="-0.382446" max="0.370789" rms="0.019641"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<simpleblockfile filename="e08015c9.au" len="102042" min="-0.00058" max="0.000641" rms="0.000199"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="220.711451247166" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2104288">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0801e48.au" len="262144" min="-0.004608" max="0.00531" rms="0.000294"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08015c0.au" len="262144" min="-0.281342" max="0.278748" rms="0.036415"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0801f4e.au" len="262144" min="-0.255493" max="0.208099" rms="0.05855"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080161a.au" len="262144" min="-0.183105" max="0.164673" rms="0.047164"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e080154d.au" len="262144" min="-0.26358" max="0.205994" rms="0.050995"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0801af3.au" len="262144" min="-0.248291" max="0.186615" rms="0.059313"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0801dc6.au" len="7136" min="-0.001923" max="0.002136" rms="0.00033"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="47.71628118" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4127085">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="177106"/>
+				</waveblock>
+				<waveblock start="963538">
+					<simpleblockfile filename="e0801676.au" len="262144" min="-0.28064" max="0.254608" rms="0.033336"/>
+				</waveblock>
+				<waveblock start="1225682">
+					<simpleblockfile filename="e0801251.au" len="262144" min="-0.283295" max="0.216522" rms="0.058304"/>
+				</waveblock>
+				<waveblock start="1487826">
+					<simpleblockfile filename="e0801e01.au" len="262144" min="-0.203278" max="0.198456" rms="0.045872"/>
+				</waveblock>
+				<waveblock start="1749970">
+					<simpleblockfile filename="e08019ba.au" len="262144" min="-0.254272" max="0.222137" rms="0.047765"/>
+				</waveblock>
+				<waveblock start="2012114">
+					<simpleblockfile filename="e0801c89.au" len="262144" min="-0.309906" max="0.291504" rms="0.082146"/>
+				</waveblock>
+				<waveblock start="2274258">
+					<simpleblockfile filename="e0801326.au" len="262144" min="-0.319855" max="0.267181" rms="0.050917"/>
+				</waveblock>
+				<waveblock start="2536402">
+					<simpleblockfile filename="e080173a.au" len="262144" min="-0.21814" max="0.193756" rms="0.045221"/>
+				</waveblock>
+				<waveblock start="2798546">
+					<simpleblockfile filename="e0801c30.au" len="262144" min="-0.231903" max="0.189697" rms="0.048828"/>
+				</waveblock>
+				<waveblock start="3060690">
+					<simpleblockfile filename="e08016ee.au" len="262144" min="-0.26358" max="0.246307" rms="0.046093"/>
+				</waveblock>
+				<waveblock start="3322834">
+					<simpleblockfile filename="e0801a2e.au" len="262144" min="-0.25415" max="0.204773" rms="0.047208"/>
+				</waveblock>
+				<waveblock start="3584978">
+					<simpleblockfile filename="e0801cdf.au" len="262144" min="-0.223633" max="0.172394" rms="0.04613"/>
+				</waveblock>
+				<waveblock start="3847122">
+					<simpleblockfile filename="e08012ca.au" len="262144" min="-0.076813" max="0.068573" rms="0.008421"/>
+				</waveblock>
+				<waveblock start="4109266">
+					<simpleblockfile filename="e0801a66.au" len="17819" min="-0.001099" max="0.001129" rms="0.000276"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="21.848934240363" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="141.30097506" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4185618">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e080195f.au" len="262144" min="-0.194977" max="0.138855" rms="0.012796"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0801610.au" len="262144" min="-0.298706" max="0.228851" rms="0.048256"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0801a1c.au" len="262144" min="-0.263763" max="0.207611" rms="0.053313"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e08018eb.au" len="262144" min="-0.2323" max="0.171844" rms="0.052449"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e08017b8.au" len="262144" min="-0.319794" max="0.266479" rms="0.053812"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0801d62.au" len="262144" min="-0.306061" max="0.257782" rms="0.050956"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e08012f8.au" len="262144" min="-0.24826" max="0.176941" rms="0.053025"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0801027.au" len="262144" min="-0.002197" max="0.001831" rms="0.000307"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e08019de.au" len="253458" min="-0.001862" max="0.001801" rms="0.000261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3008993">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="239942"/>
+				</waveblock>
+				<waveblock start="1812806">
+					<simpleblockfile filename="e0801cd5.au" len="262144" min="-0.319824" max="0.25119" rms="0.032233"/>
+				</waveblock>
+				<waveblock start="2074950">
+					<simpleblockfile filename="e0801cb4.au" len="262144" min="-0.309082" max="0.21051" rms="0.055191"/>
+				</waveblock>
+				<waveblock start="2337094">
+					<simpleblockfile filename="e0801bf0.au" len="262144" min="-0.280609" max="0.228119" rms="0.049895"/>
+				</waveblock>
+				<waveblock start="2599238">
+					<simpleblockfile filename="e08017c9.au" len="262144" min="-0.204956" max="0.152649" rms="0.047427"/>
+				</waveblock>
+				<waveblock start="2861382">
+					<simpleblockfile filename="e080109c.au" len="147611" min="-0.001801" max="0.001984" rms="0.000327"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="41.106712018141" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="68.23113379" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3600778">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<silentblockfile len="192906"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="149.88142857" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2135707">
+				<waveblock start="0">
+					<simpleblockfile filename="e0801630.au" len="262144" min="-0.319855" max="0.304321" rms="0.050929"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0801032.au" len="262144" min="-0.306244" max="0.248016" rms="0.068981"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08013cb.au" len="262144" min="-0.247437" max="0.174622" rms="0.051081"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0801e2b.au" len="262144" min="-0.319824" max="0.278137" rms="0.055797"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e080197a.au" len="262144" min="-0.319855" max="0.296631" rms="0.078728"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0801271.au" len="262144" min="-0.29425" max="0.226318" rms="0.058894"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0801890.au" len="262144" min="-0.202271" max="0.115112" rms="0.028866"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0801eaa.au" len="262144" min="-0.011017" max="0.008911" rms="0.000399"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e08013ac.au" len="38555" min="-0.005646" max="0.008118" rms="0.000478"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Karl Vocals 1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.122018" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e08081a0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="0" aliaslen="262144" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0808fd0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.00412" max="0.003693" rms="0.000069"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0808460.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.004181" max="0.004272" rms="0.000116"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808f38.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.478882" max="0.408722" rms="0.065343"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e08084f9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.478088" max="0.406433" rms="0.096489"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0808523.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.47168" max="0.463257" rms="0.091692"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e080836b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.471344" max="0.346741" rms="0.093884"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0808d75.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.570953" max="0.428955" rms="0.11476"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e08084e5.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.643829" max="0.535583" rms="0.120686"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e08086e2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.571625" max="0.593964" rms="0.1108"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0808266.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.450989" max="0.289093" rms="0.110395"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0808324.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.003937" max="0.003784" rms="0.000179"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e08082fc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.441284" max="0.37323" rms="0.065984"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e080837d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.378815" max="0.348053" rms="0.08677"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e080853c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.406738" max="0.427246" rms="0.084578"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e080887c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.382355" max="0.293274" rms="0.086093"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e08086af.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.432159" max="0.389252" rms="0.089557"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e08088a3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.454102" max="0.378967" rms="0.104676"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e08083b2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.624847" max="0.528687" rms="0.098932"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808317.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.447815" max="0.362823" rms="0.111286"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0808396.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.541473" max="0.411987" rms="0.098705"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e08080d7.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.497528" max="0.442047" rms="0.095153"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e080878b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.405975" max="0.273102" rms="0.101804"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0808ef8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.004364" max="0.003693" rms="0.000097"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0808ad3.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.004181" max="0.003937" rms="0.000065"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e080846b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.388855" max="0.443085" rms="0.046017"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0808abc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.519043" max="0.35611" rms="0.085415"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0808dd1.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.547913" max="0.465912" rms="0.144969"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e08084e2.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.590607" max="0.732117" rms="0.129631"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e08081cc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.988525" max="0.77182" rms="0.102888"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0808239.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.591553" max="0.47168" rms="0.14261"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e080885e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.541168" max="0.51712" rms="0.121184"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0808d63.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.639191" max="0.586761" rms="0.106761"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e0808b3f.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.710663" max="0.584778" rms="0.095587"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e08081aa.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.523682" max="0.387238" rms="0.106722"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e08080f4.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.678528" max="0.608704" rms="0.10412"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0808214.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.598419" max="0.566162" rms="0.091806"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e08087cd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.495361" max="0.287689" rms="0.102059"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0808c69.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.001129" max="0.001343" rms="0.000089"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0808cf8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-0.000031" max="0.0" rms="0.000009"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0808734.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Karl Vocals 1" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.122018" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10584000">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e08081ee.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="0" aliaslen="262144" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0808e5c.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.00412" max="0.003693" rms="0.000069"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e080869e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.004181" max="0.004272" rms="0.000116"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0808ae8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.478302" max="0.407471" rms="0.065322"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0808e89.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.480774" max="0.40741" rms="0.096433"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0808fcb.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.469513" max="0.462585" rms="0.091827"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e08088cd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.469269" max="0.345367" rms="0.093856"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0808dce.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.568634" max="0.433777" rms="0.114969"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e080888d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.643555" max="0.536285" rms="0.120797"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0808bbc.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.570557" max="0.592987" rms="0.110737"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0808872.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.449738" max="0.288025" rms="0.110306"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e08083a6.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.003937" max="0.003784" rms="0.000179"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0808273.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.43985" max="0.372284" rms="0.066067"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0808293.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.384125" max="0.348694" rms="0.086712"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e08081f0.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.406952" max="0.427124" rms="0.084552"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e08086be.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.381348" max="0.291809" rms="0.086082"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0808d84.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.431213" max="0.390198" rms="0.089551"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e08085a9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.450348" max="0.379639" rms="0.104645"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0808172.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.626007" max="0.529602" rms="0.098886"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0808e10.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.452972" max="0.362427" rms="0.1113"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0808543.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.540314" max="0.413879" rms="0.098713"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0808e43.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.497253" max="0.441742" rms="0.095153"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e08088ff.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.408478" max="0.27417" rms="0.101766"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0808f6d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.004364" max="0.003693" rms="0.000097"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0808e9b.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.004181" max="0.003937" rms="0.000065"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e0808e40.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.388824" max="0.443481" rms="0.046074"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0808c09.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.514221" max="0.357178" rms="0.085342"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0808187.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.546753" max="0.46524" rms="0.144635"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0808a6e.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.590057" max="0.733002" rms="0.129669"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0808728.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.987549" max="0.772308" rms="0.102842"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0808f03.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.591156" max="0.47171" rms="0.142802"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0808802.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.536499" max="0.517578" rms="0.121324"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0808222.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.638763" max="0.586304" rms="0.106803"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e08080ee.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.711273" max="0.585266" rms="0.09567"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0808984.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.527954" max="0.389893" rms="0.106695"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0808e35.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.677032" max="0.609741" rms="0.104168"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0808893.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.59848" max="0.566528" rms="0.091803"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0808ee9.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.498688" max="0.288391" rms="0.102043"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0808fc8.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.001129" max="0.001343" rms="0.000089"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e08086cd.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.000031" max="0.0" rms="0.000009"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0808e0d.auf" aliasfile="C:\Users\arista\Documents\Downloads\2020-04-18 Great Are You Lord\Karl Vocals 1.aif" aliasstart="10485760" aliaslen="98240" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10731501">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08010e5.au" len="262144" min="-0.003204" max="0.003571" rms="0.000648"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0801545.au" len="262144" min="-0.004822" max="0.005798" rms="0.000957"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0801f3c.au" len="262144" min="-0.211578" max="0.210571" rms="0.024392"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e08014ec.au" len="262144" min="-0.319824" max="0.302673" rms="0.050546"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e080129b.au" len="262144" min="-0.295502" max="0.25943" rms="0.042312"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e08015e5.au" len="262144" min="-0.297272" max="0.314575" rms="0.049549"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e080146c.au" len="262144" min="-0.319824" max="0.319824" rms="0.045884"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0801f60.au" len="262144" min="-0.288025" max="0.291321" rms="0.043166"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e08013c7.au" len="262144" min="-0.292755" max="0.302673" rms="0.045131"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e080142c.au" len="262144" min="-0.297424" max="0.28717" rms="0.046642"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e08019ff.au" len="262144" min="-0.25119" max="0.298431" rms="0.046245"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e0801c18.au" len="262144" min="-0.300201" max="0.277374" rms="0.045613"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e0801953.au" len="262144" min="-0.319855" max="0.319855" rms="0.055377"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0801456.au" len="262144" min="-0.291412" max="0.315216" rms="0.048366"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0801b64.au" len="262144" min="-0.288361" max="0.301056" rms="0.048436"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e0801568.au" len="262144" min="-0.319855" max="0.319824" rms="0.053297"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e0801b6d.au" len="262144" min="-0.300385" max="0.248077" rms="0.043022"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e0801058.au" len="262144" min="-0.319855" max="0.319824" rms="0.046731"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e0801b35.au" len="262144" min="-0.319885" max="0.301483" rms="0.051132"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0801a17.au" len="262144" min="-0.319824" max="0.319824" rms="0.045969"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e0801205.au" len="262144" min="-0.319824" max="0.319824" rms="0.056564"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e0801b84.au" len="262144" min="-0.319855" max="0.319824" rms="0.057642"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0801618.au" len="262144" min="-0.319885" max="0.295502" rms="0.062705"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0801862.au" len="262144" min="-0.309845" max="0.316589" rms="0.055033"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0801978.au" len="262144" min="-0.319824" max="0.307159" rms="0.061662"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e08017ec.au" len="262144" min="-0.319855" max="0.319824" rms="0.059371"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e080107e.au" len="262144" min="-0.319824" max="0.268372" rms="0.058055"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0801abf.au" len="262144" min="-0.319885" max="0.319855" rms="0.060903"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e08018db.au" len="262144" min="-0.319824" max="0.319855" rms="0.056597"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e0801597.au" len="262144" min="-0.31192" max="0.277435" rms="0.054955"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e0801929.au" len="262144" min="-0.319855" max="0.305573" rms="0.053795"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e0801c3a.au" len="262144" min="-0.319855" max="0.319824" rms="0.054482"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<simpleblockfile filename="e080105c.au" len="262144" min="-0.319885" max="0.319855" rms="0.056048"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0801002.au" len="262144" min="-0.294739" max="0.277893" rms="0.050839"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e08018c0.au" len="262144" min="-0.257263" max="0.22345" rms="0.033907"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<simpleblockfile filename="e0801bf8.au" len="262144" min="-0.043701" max="0.050903" rms="0.006155"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<simpleblockfile filename="e0801f25.au" len="245741" min="-0.003723" max="0.003937" rms="0.000888"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="24.031609977324" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.630957" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2033321">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="198030"/>
+				</waveblock>
+				<waveblock start="460174">
+					<simpleblockfile filename="e080a650.au" len="262144" min="-0.004639" max="0.005646" rms="0.001114"/>
+				</waveblock>
+				<waveblock start="722318">
+					<simpleblockfile filename="e080a9a8.au" len="262144" min="-0.149048" max="0.154877" rms="0.020037"/>
+				</waveblock>
+				<waveblock start="984462">
+					<simpleblockfile filename="e080a7cf.au" len="262144" min="-0.185364" max="0.276062" rms="0.052023"/>
+				</waveblock>
+				<waveblock start="1246606">
+					<simpleblockfile filename="e080a738.au" len="262144" min="-0.233246" max="0.319855" rms="0.047701"/>
+				</waveblock>
+				<waveblock start="1508750">
+					<simpleblockfile filename="e080ac30.au" len="262144" min="-0.158508" max="0.213776" rms="0.035732"/>
+				</waveblock>
+				<waveblock start="1770894">
+					<simpleblockfile filename="e080a942.au" len="262144" min="-0.264343" max="0.310974" rms="0.084413"/>
+				</waveblock>
+				<waveblock start="2033038">
+					<simpleblockfile filename="e080a6e8.au" len="283" min="-0.001007" max="-0.000488" rms="0.000773"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="46.10705215" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2387539">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="189240"/>
+				</waveblock>
+				<waveblock start="975672">
+					<simpleblockfile filename="e080a954.au" len="262144" min="-0.082062" max="0.143005" rms="0.010623"/>
+				</waveblock>
+				<waveblock start="1237816">
+					<simpleblockfile filename="e080a5c3.au" len="262144" min="-0.204865" max="0.220612" rms="0.044702"/>
+				</waveblock>
+				<waveblock start="1499960">
+					<simpleblockfile filename="e080abfe.au" len="262144" min="-0.184814" max="0.270874" rms="0.048621"/>
+				</waveblock>
+				<waveblock start="1762104">
+					<simpleblockfile filename="e080a14d.au" len="262144" min="-0.196533" max="0.319855" rms="0.058119"/>
+				</waveblock>
+				<waveblock start="2024248">
+					<simpleblockfile filename="e080a187.au" len="262144" min="-0.256775" max="0.319855" rms="0.069024"/>
+				</waveblock>
+				<waveblock start="2286392">
+					<simpleblockfile filename="e080a24c.au" len="101147" min="-0.070953" max="0.09494" rms="0.007504"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="22.124081632653" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="100.24625850" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3929577">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<silentblockfile len="172622"/>
+				</waveblock>
+				<waveblock start="2007630">
+					<simpleblockfile filename="e080a26f.au" len="262144" min="-0.007385" max="0.010254" rms="0.001303"/>
+				</waveblock>
+				<waveblock start="2269774">
+					<simpleblockfile filename="e080ae60.au" len="262144" min="-0.290527" max="0.319855" rms="0.049591"/>
+				</waveblock>
+				<waveblock start="2531918">
+					<simpleblockfile filename="e080a92e.au" len="262144" min="-0.293152" max="0.319855" rms="0.076561"/>
+				</waveblock>
+				<waveblock start="2794062">
+					<simpleblockfile filename="e080a435.au" len="262144" min="-0.319855" max="0.319885" rms="0.148849"/>
+				</waveblock>
+				<waveblock start="3056206">
+					<simpleblockfile filename="e080a2ce.au" len="262144" min="-0.318146" max="0.319885" rms="0.068016"/>
+				</waveblock>
+				<waveblock start="3318350">
+					<simpleblockfile filename="e080aa01.au" len="262144" min="-0.319855" max="0.319855" rms="0.087554"/>
+				</waveblock>
+				<waveblock start="3580494">
+					<simpleblockfile filename="e080ad59.au" len="262144" min="-0.319855" max="0.319885" rms="0.128365"/>
+				</waveblock>
+				<waveblock start="3842638">
+					<simpleblockfile filename="e080ab7c.au" len="86939" min="-0.085938" max="0.119415" rms="0.010116"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="45.524489795918" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.630957" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2897399">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="198108"/>
+				</waveblock>
+				<waveblock start="1770972">
+					<simpleblockfile filename="e080a0b6.au" len="262144" min="-0.039215" max="0.033569" rms="0.00222"/>
+				</waveblock>
+				<waveblock start="2033116">
+					<simpleblockfile filename="e080a658.au" len="262144" min="-0.133942" max="0.253296" rms="0.037879"/>
+				</waveblock>
+				<waveblock start="2295260">
+					<simpleblockfile filename="e080a1bb.au" len="262144" min="-0.218109" max="0.319855" rms="0.04592"/>
+				</waveblock>
+				<waveblock start="2557404">
+					<simpleblockfile filename="e080a6a3.au" len="262144" min="-0.159485" max="0.202911" rms="0.033524"/>
+				</waveblock>
+				<waveblock start="2819548">
+					<simpleblockfile filename="e080ab93.au" len="77851" min="-0.069855" max="0.042969" rms="0.009734"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="40.158095238095" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="65.70065760" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3168403">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="223480"/>
+				</waveblock>
+				<waveblock start="1272056">
+					<simpleblockfile filename="e080ae4e.au" len="262144" min="-0.182251" max="0.216522" rms="0.022462"/>
+				</waveblock>
+				<waveblock start="1534200">
+					<simpleblockfile filename="e080aaeb.au" len="262144" min="-0.226501" max="0.319855" rms="0.050114"/>
+				</waveblock>
+				<waveblock start="1796344">
+					<simpleblockfile filename="e080a3c5.au" len="262144" min="-0.211761" max="0.306183" rms="0.049757"/>
+				</waveblock>
+				<waveblock start="2058488">
+					<simpleblockfile filename="e080a1bd.au" len="262144" min="-0.179047" max="0.278625" rms="0.043379"/>
+				</waveblock>
+				<waveblock start="2320632">
+					<simpleblockfile filename="e080a881.au" len="262144" min="-0.232422" max="0.319885" rms="0.049345"/>
+				</waveblock>
+				<waveblock start="2582776">
+					<simpleblockfile filename="e080ab72.au" len="262144" min="-0.251801" max="0.312286" rms="0.051075"/>
+				</waveblock>
+				<waveblock start="2844920">
+					<simpleblockfile filename="e080a916.au" len="262144" min="-0.164429" max="0.254028" rms="0.03525"/>
+				</waveblock>
+				<waveblock start="3107064">
+					<simpleblockfile filename="e080acf6.au" len="61339" min="-0.006012" max="0.007813" rms="0.001606"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="137.54653061" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3982117">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="524288">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="786432">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e080a03d.au" len="262144" min="-0.044128" max="0.06424" rms="0.000897"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e080a82c.au" len="262144" min="-0.184814" max="0.202789" rms="0.024784"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e080a755.au" len="262144" min="-0.214142" max="0.319855" rms="0.053511"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e080af88.au" len="262144" min="-0.274506" max="0.319855" rms="0.043501"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e080ae3b.au" len="262144" min="-0.233521" max="0.285492" rms="0.03781"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e080ab3c.au" len="262144" min="-0.155426" max="0.275177" rms="0.04533"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e080a3ee.au" len="262144" min="-0.279266" max="0.319855" rms="0.039085"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e080a1a8.au" len="262144" min="-0.138458" max="0.187805" rms="0.024598"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e080a1f2.au" len="49957" min="-0.006409" max="0.005493" rms="0.00143"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="43.639229024943" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
